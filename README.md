@@ -82,7 +82,7 @@
 3. 使用 ControlNet 和 Stable Diffusion 模型生成风格化图像。
 4. 生成的图像通过Base64编码返回前端，并在页面展示。
 
-![示例1](C:\Users\qq100\Desktop\项目截图展示\示例1.png)
+![演示图](screenshots/示例1.png)
 
 ## 评估
 
